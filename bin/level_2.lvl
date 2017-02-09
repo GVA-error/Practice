@@ -1,0 +1,18 @@
+<?xml encoding="utf-8"?>
+<LevelInfo>
+	<settings>
+		<Moves max="2"/>
+	</settings>
+	<Boxes>
+		<Box x="1" y="0" type="4"/>
+		<Box x="1" y="1" type="0"/>
+		<Box x="2" y="0" type="4"/>
+		<Box x="3" y="0" type="5"/>
+		<Box x="3" y="1" type="1"/>
+		<Box x="3" y="2" type="1"/>
+		<Box x="3" y="3" type="4"/>
+		<Box x="3" y="4" type="0"/>
+		<Box x="4" y="0" type="0"/>
+	</Boxes>
+</LevelInfo>
+

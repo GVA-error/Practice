@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<Resources>
+	<FreeTypeFonts group="gameGroup" upload="false">
+		<font name="arial" family="arial" size="12" color="255;255;255;255" letterSpacing="0">
+			<Effect alpha="0.1" type="shadow" blurX="2" blurY="2" strength="50" angle="0" inner="false" color="0;0;0;255" offset="0"/>
+		</font>
+    <font name="stdGameFont" family="stdGameFont" size="32" color="255;255;255;255" letterSpacing="0">
+      <Effect alpha="0.1" type="shadow" blurX="2" blurY="2" strength="50" angle="0" inner="false" color="50;50;50;255" offset="0"/>
+    </font>
+  </FreeTypeFonts>
+	<Textures>
+    <texture id="Boxes" path="textures/Boxes.png" group="gameGroup" upload="true"/>
+    <texture id="SoundButton" path="textures/sound.png" group="gameGroup" upload="true"/>
+    <texture id="BackMove" path="textures/backStep.png" group="gameGroup" upload="true"/>
+    <texture id="Done" path="textures/done.png" group="gameGroup" upload="true"/>
+    <texture id="MainMenue" path="textures/maiMenue.png" group="gameGroup" upload="true"/>
+    <texture id="LevelList" path="textures/LevelList.png" group="gameGroup" upload="true"/>
+    <texture id="BackGround" path="textures/background.png" group="gameGroup" upload="true"/>
+    <texture id="help" path="textures/help.png" group="gameGroup" upload="true"/>
+    <texture id="lock" path="textures/Lock.png" group="gameGroup" upload="true"/>
+    <texture id="bomb" path="textures/bomb.png" group="gameGroup" upload="true"/>
+  </Textures>
+</Resources>

@@ -1,0 +1,401 @@
+data 2015:8:15 time 10:23:54  start generate level: level_4.lvl, boxTypesCount: 5, moveCountToWin: 3
+data 2015:8:15 time 10:23:54 Start generate tree 
+data 2015:8:15 time 10:24:57  start generate level: level_4.lvl, boxTypesCount: 5, moveCountToWin: 3
+data 2015:8:15 time 10:24:57 Start generate tree 
+data 2015:8:15 time 10:25:0 Warning! newGamePos._maxNumMove != moveCountToWin 
+data 2015:8:15 time 10:25:0 sucessfull! Level have 4 varyables win 
+    first varyable is 1 0 0 0 -1 
+    faster path to win is 2
+
+data 2015:8:15 time 10:37:37  start generate level: level_4.lvl, boxTypesCount: 5, moveCountToWin: 3
+data 2015:8:15 time 10:37:37 Start generate tree 
+data 2015:8:15 time 10:37:38 Warning! newGamePos._maxNumMove != moveCountToWin 
+data 2015:8:15 time 10:37:38 sucessfull! Level have 2 varyables win 
+    first varyable is 1 0 1 0 2 
+    faster path to win is 2
+
+data 2015:8:15 time 10:37:52  start generate level: level_4.lvl, boxTypesCount: 5, moveCountToWin: 3
+data 2015:8:15 time 10:37:52 Start generate tree 
+data 2015:8:15 time 10:38:35 Start generate tree 
+data 2015:8:15 time 10:40:13 Warning! newGamePos._maxNumMove != moveCountToWin 
+data 2015:8:15 time 10:40:13 sucessfull! Level have 40 varyables win 
+    first varyable is 2 0 2 0 6 
+    faster path to win is 4
+
+data 2015:8:15 time 10:52:50  start generate level: level_4.lvl, boxTypesCount: 5, moveCountToWin: 3
+data 2015:8:15 time 10:52:50 Start generate tree 
+data 2015:8:15 time 10:55:7  start generate level: level_4.lvl, boxTypesCount: 5, moveCountToWin: 3
+data 2015:8:15 time 10:55:7 Start generate tree 
+data 2015:8:15 time 10:55:11 sucessfull! Level have 17 varyables win 
+    first varyable is 0 0 0 0 6 
+    faster path to win is 3
+
+data 2015:8:15 time 11:12:35  start generate level: level_4.lvl, boxTypesCount: 5, moveCountToWin: 3
+data 2015:8:15 time 11:12:35 Start generate tree 
+data 2015:8:15 time 11:12:47  start generate level: level_4.lvl, boxTypesCount: 5, moveCountToWin: 3
+data 2015:8:15 time 11:12:47 Start generate tree 
+data 2015:8:15 time 11:13:59  start generate level: level_4.lvl, boxTypesCount: 5, moveCountToWin: 3
+data 2015:8:15 time 11:14:0 Start generate tree 
+data 2015:8:15 time 11:14:58  start generate level: level_4.lvl, boxTypesCount: 5, moveCountToWin: 3
+data 2015:8:15 time 11:14:59 Start generate tree 
+data 2015:8:15 time 11:17:1  start generate level: level_4.lvl, boxTypesCount: 5, moveCountToWin: 3
+data 2015:8:15 time 11:17:1 Start generate tree 
+data 2015:8:15 time 11:17:5 sucessfull! Level have 24 varyables win 
+    first varyable is 1 0 0 0 -1 
+    faster path to win is 3
+
+data 2015:8:15 time 11:17:19  start generate level: level_4.lvl, boxTypesCount: 5, moveCountToWin: 3
+data 2015:8:15 time 11:17:19 Start generate tree 
+data 2015:8:15 time 11:17:20 Warning! newGamePos._maxNumMove != moveCountToWin 
+data 2015:8:15 time 11:17:20 sucessfull! Level have 4 varyables win 
+    first varyable is 3 0 2 0 -1 
+    faster path to win is 2
+
+data 2015:8:15 time 11:25:42  start generate level: level_4.lvl, boxTypesCount: 5, moveCountToWin: 3
+data 2015:8:15 time 11:25:42 Start generate tree 
+data 2015:8:15 time 11:25:50 Start generate tree 
+data 2015:8:15 time 11:25:50 Warning! newGamePos._maxNumMove != moveCountToWin 
+data 2015:8:15 time 11:25:50 sucessfull! Level have 1 varyables win 
+    first varyable is 1 0 1 0 0 
+    faster path to win is 1
+
+data 2015:8:15 time 11:26:2  start generate level: level_4.lvl, boxTypesCount: 5, moveCountToWin: 3
+data 2015:8:15 time 11:26:2 Start generate tree 
+data 2015:8:15 time 11:26:31 sucessfull! Level have 8 varyables win 
+    first varyable is 3 0 3 0 6 
+    faster path to win is 3
+
+data 2015:8:15 time 12:44:1  start generate level: level_24.lvl, boxTypesCount: 5, moveCountToWin: 3
+data 2015:8:15 time 12:44:1 Start generate tree 
+data 2015:8:15 time 12:44:6 Warning! newGamePos._maxNumMove != moveCountToWin 
+data 2015:8:15 time 12:44:6 sucessfull! Level have 12 varyables win 
+    first varyable is 0 1 0 1 6 
+    faster path to win is 4
+
+data 2015:8:15 time 12:44:24  start generate level: level_24.lvl, boxTypesCount: 5, moveCountToWin: 3
+data 2015:8:15 time 12:44:24 Start generate tree 
+data 2015:8:15 time 12:46:9 sucessfull! Level have 10 varyables win 
+    first varyable is 2 1 2 1 6 
+    faster path to win is 3
+
+data 2015:8:15 time 14:42:23  start generate level: level_24.lvl, boxTypesCount: 5, moveCountToWin: 3
+data 2015:8:15 time 14:42:23 Start generate tree 
+data 2015:8:15 time 14:43:25 Start generate tree 
+data 2015:8:15 time 14:43:53  start generate level: level_24.lvl, boxTypesCount: 5, moveCountToWin: 3
+data 2015:8:15 time 14:43:53 Start generate tree 
+data 2015:8:15 time 14:44:2 Warning! newGamePos._maxNumMove != moveCountToWin 
+data 2015:8:15 time 14:44:2 sucessfull! Level have 3 varyables win 
+    first varyable is 1 1 1 2 -1 
+    faster path to win is 2
+
+data 2015:8:15 time 14:44:20  start generate level: level_24.lvl, boxTypesCount: 5, moveCountToWin: 3
+data 2015:8:15 time 14:44:20 Start generate tree 
+data 2015:8:15 time 14:44:29 sucessfull! Level have 2 varyables win 
+    first varyable is 1 0 0 0 -1 
+    faster path to win is 3
+
+data 2015:8:15 time 14:45:14  start generate level: level_24.lvl, boxTypesCount: 5, moveCountToWin: 3
+data 2015:8:15 time 14:45:14 Start generate tree 
+data 2015:8:15 time 14:45:31 Warning! newGamePos._maxNumMove != moveCountToWin 
+data 2015:8:15 time 14:45:31 sucessfull! Level have 65 varyables win 
+    first varyable is 1 0 1 0 6 
+    faster path to win is 4
+
+data 2015:8:15 time 14:46:59  start generate level: level_24.lvl, boxTypesCount: 5, moveCountToWin: 3
+data 2015:8:15 time 14:46:59 Start generate tree 
+data 2015:8:15 time 14:47:18 Start generate tree 
+data 2015:8:15 time 14:52:10  start generate level: level_24.lvl, boxTypesCount: 5, moveCountToWin: 3
+data 2015:8:15 time 14:52:10 Start generate tree 
+data 2015:8:15 time 14:52:52 Start generate tree 
+data 2015:8:15 time 14:53:19 Warning! newGamePos._maxNumMove != moveCountToWin 
+data 2015:8:15 time 14:53:19 sucessfull! Level have 2 varyables win 
+    first varyable is 1 1 1 1 0 
+    faster path to win is 2
+
+data 2015:8:15 time 14:58:5  start generate level: level_24.lvl, boxTypesCount: 5, moveCountToWin: 3
+data 2015:8:15 time 14:58:5 Start generate tree 
+data 2015:8:15 time 14:58:10 Warning! newGamePos._maxNumMove != moveCountToWin 
+data 2015:8:15 time 14:58:10 sucessfull! Level have 1 varyables win 
+    first varyable is 1 1 1 1 4 
+    faster path to win is 2
+
+data 2015:8:15 time 15:0:12  start generate level: level_24.lvl, boxTypesCount: 5, moveCountToWin: 3
+data 2015:8:15 time 15:0:12 Start generate tree 
+data 2015:8:15 time 15:0:44 sucessfull! Level have 5 varyables win 
+    first varyable is 1 0 1 0 2 
+    faster path to win is 3
+
+data 2015:8:15 time 15:1:6  start generate level: level_24.lvl, boxTypesCount: 5, moveCountToWin: 3
+data 2015:8:15 time 15:1:7 Start generate tree 
+data 2015:8:15 time 15:3:19  start generate level: level_24.lvl, boxTypesCount: 5, moveCountToWin: 3
+data 2015:8:15 time 15:3:19 Start generate tree 
+data 2015:8:15 time 15:4:31  start generate level: level_24.lvl, boxTypesCount: 5, moveCountToWin: 3
+data 2015:8:15 time 15:4:31 Start generate tree 
+data 2015:8:15 time 15:6:55  start generate level: level_24.lvl, boxTypesCount: 5, moveCountToWin: 3
+data 2015:8:15 time 15:6:55 Start generate tree 
+data 2015:8:15 time 15:6:57 sucessfull! Level have 1 varyables win 
+    first varyable is 2 0 1 0 -1 
+    faster path to win is 3
+
+data 2015:8:15 time 15:11:16  start generate level: level_24.lvl, boxTypesCount: 5, moveCountToWin: 3
+data 2015:8:15 time 15:11:16 Start generate tree 
+data 2015:8:15 time 15:12:54  start generate level: level_24.lvl, boxTypesCount: 5, moveCountToWin: 3
+data 2015:8:15 time 15:12:54 Start generate tree 
+data 2015:8:15 time 15:13:3 sucessfull! Level have 1 varyables win 
+    first varyable is 4 2 3 2 -1 
+    faster path to win is 3
+
+data 2015:8:15 time 15:13:39  start generate level: level_24.lvl, boxTypesCount: 5, moveCountToWin: 3
+data 2015:8:15 time 15:13:39 Start generate tree 
+data 2015:8:15 time 15:14:24  start generate level: level_24.lvl, boxTypesCount: 5, moveCountToWin: 3
+data 2015:8:15 time 15:14:24 Start generate tree 
+data 2015:8:15 time 15:14:24 Warning! newGamePos._maxNumMove != moveCountToWin 
+data 2015:8:15 time 15:14:24 sucessfull! Level have 8 varyables win 
+    first varyable is 1 0 0 0 -1 
+    faster path to win is 2
+
+data 2015:8:15 time 15:14:35  start generate level: level_24.lvl, boxTypesCount: 5, moveCountToWin: 3
+data 2015:8:15 time 15:14:35 Start generate tree 
+data 2015:8:15 time 15:16:46  start generate level: level_24.lvl, boxTypesCount: 5, moveCountToWin: 3
+data 2015:8:15 time 15:16:46 Start generate tree 
+data 2015:8:15 time 15:17:36 Start generate tree 
+data 2015:8:15 time 15:17:53 sucessfull! Level have 6 varyables win 
+    first varyable is 2 2 2 3 -1 
+    faster path to win is 3
+
+data 2015:8:15 time 15:48:45  start generate level: level_24.lvl, boxTypesCount: 5, moveCountToWin: 3
+data 2015:8:15 time 15:48:45 Start generate tree 
+data 2015:8:15 time 15:48:49 Start generate tree 
+data 2015:8:15 time 15:49:55 Warning! newGamePos._maxNumMove != moveCountToWin 
+data 2015:8:15 time 15:49:55 sucessfull! Level have 15 varyables win 
+    first varyable is 1 0 1 0 6 
+    faster path to win is 4
+
+data 2015:8:15 time 15:54:46  start generate level: level_24.lvl, boxTypesCount: 5, moveCountToWin: 3
+data 2015:8:15 time 15:54:46 Start generate tree 
+data 2015:8:15 time 15:55:18  start generate level: level_24.lvl, boxTypesCount: 5, moveCountToWin: 3
+data 2015:8:15 time 15:55:18 Start generate tree 
+data 2015:8:15 time 15:57:59  start generate level: level_24.lvl, boxTypesCount: 5, moveCountToWin: 3
+data 2015:8:15 time 15:58:0 Start generate tree 
+data 2015:8:15 time 15:58:0 sucessfull! Level have 3 varyables win 
+    first varyable is 1 0 1 0 6 
+    faster path to win is 3
+
+data 2015:8:15 time 15:58:4  start generate level: level_24.lvl, boxTypesCount: 5, moveCountToWin: 3
+data 2015:8:15 time 15:58:4 Start generate tree 
+data 2015:8:15 time 15:58:4 Warning! newGamePos._maxNumMove != moveCountToWin 
+data 2015:8:15 time 15:58:4 sucessfull! Level have 1 varyables win 
+    first varyable is 2 0 1 0 -1 
+    faster path to win is 2
+
+data 2015:8:15 time 15:58:24  start generate level: level_24.lvl, boxTypesCount: 5, moveCountToWin: 3
+data 2015:8:15 time 15:58:24 Start generate tree 
+data 2015:8:15 time 15:58:24 Warning! newGamePos._maxNumMove != moveCountToWin 
+data 2015:8:15 time 15:58:24 sucessfull! Level have 1 varyables win 
+    first varyable is 0 0 0 1 -1 
+    faster path to win is 2
+
+data 2015:8:15 time 15:58:27  start generate level: level_24.lvl, boxTypesCount: 5, moveCountToWin: 3
+data 2015:8:15 time 15:58:27 Start generate tree 
+data 2015:8:15 time 15:58:27 Warning! newGamePos._maxNumMove != moveCountToWin 
+data 2015:8:15 time 15:58:27 sucessfull! Level have 1 varyables win 
+    first varyable is 1 0 0 0 -1 
+    faster path to win is 2
+
+data 2015:8:15 time 15:58:31  start generate level: level_24.lvl, boxTypesCount: 5, moveCountToWin: 3
+data 2015:8:15 time 15:58:31 Start generate tree 
+data 2015:8:15 time 15:59:24  start generate level: level_24.lvl, boxTypesCount: 5, moveCountToWin: 3
+data 2015:8:15 time 15:59:24 Start generate tree 
+data 2015:8:15 time 15:59:29 sucessfull! Level have 1 varyables win 
+    first varyable is 1 0 1 1 -1 
+    faster path to win is 3
+
+data 2015:8:15 time 16:0:33  start generate level: level_24.lvl, boxTypesCount: 5, moveCountToWin: 3
+data 2015:8:15 time 16:0:33 Start generate tree 
+data 2015:8:15 time 16:0:41 Start generate tree 
+data 2015:8:15 time 16:0:42 sucessfull! Level have 3 varyables win 
+    first varyable is 0 0 0 0 6 
+    faster path to win is 3
+
+data 2015:8:15 time 19:24:5  start generate level: level_24.lvl, boxTypesCount: 5, moveCountToWin: 3
+data 2015:8:15 time 19:24:5 Start generate tree 
+data 2015:8:15 time 19:24:5 Warning! newGamePos._maxNumMove != moveCountToWin 
+data 2015:8:15 time 19:24:5 sucessfull! Level have 4 varyables win 
+    first varyable is 2 0 2 1 -1 
+    faster path to win is 2
+
+data 2015:8:15 time 19:40:57  start generate level: level_24.lvl, boxTypesCount: 5, moveCountToWin: 3
+data 2015:8:15 time 19:40:57 Start generate tree 
+data 2015:8:15 time 19:40:58 Warning! newGamePos._maxNumMove != moveCountToWin 
+data 2015:8:15 time 19:40:58 sucessfull! Level have 2 varyables win 
+    first varyable is 2 0 1 0 -1 
+    faster path to win is 4
+
+data 2015:8:15 time 19:48:53  start generate level: level_24.lvl, boxTypesCount: 5, moveCountToWin: 3
+data 2015:8:15 time 19:48:53 Start generate tree 
+data 2015:8:15 time 19:48:53 Start generate tree 
+data 2015:8:15 time 19:48:54 Start generate tree 
+data 2015:8:15 time 19:48:55 Warning! newGamePos._maxNumMove != moveCountToWin 
+data 2015:8:15 time 19:48:55 sucessfull! Level have 24 varyables win 
+    first varyable is 0 0 0 0 6 
+    faster path to win is 4
+
+data 2015:8:15 time 19:49:17  start generate level: level_24.lvl, boxTypesCount: 5, moveCountToWin: 3
+data 2015:8:15 time 19:49:17 Start generate tree 
+data 2015:8:15 time 19:49:17 Start generate tree 
+data 2015:8:15 time 19:49:18 Start generate tree 
+data 2015:8:15 time 19:49:18 Warning! newGamePos._maxNumMove != moveCountToWin 
+data 2015:8:15 time 19:49:18 sucessfull! Level have 24 varyables win 
+    first varyable is 1 0 1 0 6 
+    faster path to win is 4
+
+data 2015:8:15 time 19:49:27  start generate level: level_24.lvl, boxTypesCount: 5, moveCountToWin: 3
+data 2015:8:15 time 19:49:27 Start generate tree 
+data 2015:8:15 time 19:49:27 Warning! newGamePos._maxNumMove != moveCountToWin 
+data 2015:8:15 time 19:49:27 sucessfull! Level have 1 varyables win 
+    first varyable is 3 0 3 0 4 
+    faster path to win is 1
+
+data 2015:8:15 time 19:49:31  start generate level: level_24.lvl, boxTypesCount: 5, moveCountToWin: 3
+data 2015:8:15 time 19:49:31 Start generate tree 
+data 2015:8:15 time 19:49:31 Start generate tree 
+data 2015:8:15 time 19:49:31 Start generate tree 
+data 2015:8:15 time 19:49:31 sucessfull! Level have 6 varyables win 
+    first varyable is 0 0 0 0 6 
+    faster path to win is 3
+
+data 2015:8:15 time 19:49:50  start generate level: level_24.lvl, boxTypesCount: 5, moveCountToWin: 3
+data 2015:8:15 time 19:49:50 Start generate tree 
+data 2015:8:15 time 19:49:50 Start generate tree 
+data 2015:8:15 time 19:49:50 Warning! newGamePos._maxNumMove != moveCountToWin 
+data 2015:8:15 time 19:49:50 sucessfull! Level have 48 varyables win 
+    first varyable is 0 0 0 0 6 
+    faster path to win is 4
+
+data 2015:8:15 time 19:50:9  start generate level: level_24.lvl, boxTypesCount: 5, moveCountToWin: 3
+data 2015:8:15 time 19:50:9 Start generate tree 
+data 2015:8:15 time 19:50:9 Warning! newGamePos._maxNumMove != moveCountToWin 
+data 2015:8:15 time 19:50:9 sucessfull! Level have 2 varyables win 
+    first varyable is 2 0 2 0 1 
+    faster path to win is 2
+
+data 2015:8:15 time 19:50:24  start generate level: level_24.lvl, boxTypesCount: 5, moveCountToWin: 3
+data 2015:8:15 time 19:50:24 Start generate tree 
+data 2015:8:15 time 19:50:24 Start generate tree 
+data 2015:8:15 time 19:50:24 Start generate tree 
+data 2015:8:15 time 19:50:24 Start generate tree 
+data 2015:8:15 time 19:50:24 Start generate tree 
+data 2015:8:15 time 19:50:24 Start generate tree 
+data 2015:8:15 time 19:50:24 Start generate tree 
+data 2015:8:15 time 19:50:25 sucessfull! Level have 6 varyables win 
+    first varyable is 1 0 1 0 6 
+    faster path to win is 3
+
+data 2015:8:15 time 20:40:24  start generate level: level_24.lvl, boxTypesCount: 5, moveCountToWin: 3
+data 2015:8:15 time 20:40:24 Start generate tree 
+data 2015:8:15 time 20:40:51  start generate level: level_24.lvl, boxTypesCount: 5, moveCountToWin: 3
+data 2015:8:15 time 20:40:51 Start generate tree 
+data 2015:8:15 time 20:40:53 Warning! newGamePos._maxNumMove != moveCountToWin 
+data 2015:8:15 time 20:40:53 sucessfull! Level have 2 varyables win 
+    first varyable is 1 0 1 0 1 
+    faster path to win is 2
+
+data 2015:8:16 time 13:58:31  start generate level: level_24.lvl, boxTypesCount: 5, moveCountToWin: 3
+data 2015:8:16 time 13:58:31 Start generate tree 
+data 2015:8:16 time 13:58:31 sucessfull! Level have 6 varyables win 
+    first varyable is 3 0 3 0 6 
+    faster path to win is 3
+
+data 2015:8:16 time 13:58:52  start generate level: level_24.lvl, boxTypesCount: 5, moveCountToWin: 3
+data 2015:8:16 time 13:58:52 Start generate tree 
+data 2015:8:16 time 14:0:55  start generate level: level_24.lvl, boxTypesCount: 5, moveCountToWin: 3
+data 2015:8:16 time 14:0:55 Start generate tree 
+data 2015:8:16 time 14:0:56 Warning! newGamePos._maxNumMove != moveCountToWin 
+data 2015:8:16 time 14:0:56 sucessfull! Level have 2 varyables win 
+    first varyable is 2 1 2 1 4 
+    faster path to win is 2
+
+data 2015:8:16 time 14:1:6  start generate level: level_24.lvl, boxTypesCount: 5, moveCountToWin: 3
+data 2015:8:16 time 14:1:6 Start generate tree 
+data 2015:8:16 time 14:1:11 Warning! newGamePos._maxNumMove != moveCountToWin 
+data 2015:8:16 time 14:1:11 sucessfull! Level have 4 varyables win 
+    first varyable is 2 1 2 1 6 
+    faster path to win is 4
+
+data 2015:8:16 time 14:1:46  start generate level: level_24.lvl, boxTypesCount: 5, moveCountToWin: 3
+data 2015:8:16 time 14:1:46 Start generate tree 
+data 2015:8:16 time 14:1:46 Warning! newGamePos._maxNumMove != moveCountToWin 
+data 2015:8:16 time 14:1:46 sucessfull! Level have 5 varyables win 
+    first varyable is 2 0 2 0 6 
+    faster path to win is 2
+
+data 2015:8:16 time 14:4:31  start generate level: level_24.lvl, boxTypesCount: 5, moveCountToWin: 3
+data 2015:8:16 time 14:4:31 Start generate tree 
+data 2015:8:16 time 14:4:34 sucessfull! Level have 3 varyables win 
+    first varyable is 3 0 3 0 2 
+    faster path to win is 3
+
+data 2015:8:16 time 14:4:51  start generate level: level_24.lvl, boxTypesCount: 5, moveCountToWin: 3
+data 2015:8:16 time 14:4:51 Start generate tree 
+data 2015:8:16 time 14:4:52 Warning! newGamePos._maxNumMove != moveCountToWin 
+data 2015:8:16 time 14:4:52 sucessfull! Level have 2 varyables win 
+    first varyable is 0 0 0 0 2 
+    faster path to win is 2
+
+data 2015:8:16 time 14:7:38  start generate level: level_24.lvl, boxTypesCount: 5, moveCountToWin: 3
+data 2015:8:16 time 14:7:38 Start generate tree 
+data 2015:8:16 time 14:7:38 Warning! newGamePos._maxNumMove != moveCountToWin 
+data 2015:8:16 time 14:7:38 sucessfull! Level have 4 varyables win 
+    first varyable is 1 0 1 0 6 
+    faster path to win is 2
+
+data 2015:8:16 time 14:7:48  start generate level: level_24.lvl, boxTypesCount: 5, moveCountToWin: 3
+data 2015:8:16 time 14:7:48 Start generate tree 
+data 2015:8:16 time 14:7:49 sucessfull! Level have 7 varyables win 
+    first varyable is 0 0 0 0 6 
+    faster path to win is 3
+
+data 2015:8:16 time 14:20:41  start generate level: level_24.lvl, boxTypesCount: 5, moveCountToWin: 3
+data 2015:8:16 time 14:20:41 Start generate tree 
+data 2015:8:16 time 14:21:5 Warning! newGamePos._maxNumMove != moveCountToWin 
+data 2015:8:16 time 14:21:5 sucessfull! Level have 3 varyables win 
+    first varyable is 2 1 2 1 6 
+    faster path to win is 4
+
+data 2015:8:16 time 14:25:7  start generate level: level_24.lvl, boxTypesCount: 5, moveCountToWin: 3
+data 2015:8:16 time 14:25:7 Start generate tree 
+data 2015:8:16 time 14:29:48  start generate level: level_24.lvl, boxTypesCount: 5, moveCountToWin: 3
+data 2015:8:16 time 14:29:48 Start generate tree 
+data 2015:8:16 time 14:30:0 Warning! newGamePos._maxNumMove != moveCountToWin 
+data 2015:8:16 time 14:30:0 sucessfull! Level have 2 varyables win 
+    first varyable is 1 0 1 0 2 
+    faster path to win is 2
+
+data 2015:8:16 time 14:30:12  start generate level: level_24.lvl, boxTypesCount: 5, moveCountToWin: 3
+data 2015:8:16 time 14:30:12 Start generate tree 
+data 2015:8:16 time 14:30:12 Warning! newGamePos._maxNumMove != moveCountToWin 
+data 2015:8:16 time 14:30:12 sucessfull! Level have 1 varyables win 
+    first varyable is 0 0 0 0 6 
+    faster path to win is 1
+
+data 2015:8:16 time 14:30:20  start generate level: level_24.lvl, boxTypesCount: 5, moveCountToWin: 3
+data 2015:8:16 time 14:30:20 Start generate tree 
+data 2015:8:16 time 14:30:20 Warning! newGamePos._maxNumMove != moveCountToWin 
+data 2015:8:16 time 14:30:20 sucessfull! Level have 3 varyables win 
+    first varyable is 1 0 1 1 -1 
+    faster path to win is 2
+
+data 2015:8:16 time 14:30:29  start generate level: level_24.lvl, boxTypesCount: 5, moveCountToWin: 3
+data 2015:8:16 time 14:30:29 Start generate tree 
+data 2015:8:16 time 14:30:34 Warning! newGamePos._maxNumMove != moveCountToWin 
+data 2015:8:16 time 14:30:34 sucessfull! Level have 1 varyables win 
+    first varyable is 2 1 2 2 -1 
+    faster path to win is 2
+
+data 2015:8:16 time 14:30:59  start generate level: level_24.lvl, boxTypesCount: 5, moveCountToWin: 3
+data 2015:8:16 time 14:30:59 Start generate tree 
+data 2015:8:16 time 14:30:59 Warning! newGamePos._maxNumMove != moveCountToWin 
+data 2015:8:16 time 14:30:59 sucessfull! Level have 6 varyables win 
+    first varyable is 2 1 2 1 6 
+    faster path to win is 2
+

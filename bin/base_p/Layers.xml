@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<GUI>
+	<Layer name="GameGUILayer">
+		<Controls>
+      <MoveTheBoxGUIWidget name="moveTheBoxGUIWidget"/>
+		</Controls>
+	</Layer>
+</GUI>

@@ -1,0 +1,5 @@
+<Frames count="2" path="textures/particles/" group="Particles">
+	<frame x="1" y="1" width="67" height="30" innerX="5" innerY="5" frameWidth="80" frameHeight="41" path="swap"/>
+	<frame x="70" y="1" width="44" height="41" innerX="3" innerY="0" frameWidth="50" frameHeight="41" path="swapType"/>
+</Frames>
+
